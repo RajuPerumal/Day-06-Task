@@ -32,3 +32,5 @@ request.onload = function(){
     console.log("Countries Using US Dollars",USDollars.map((e)=>e.name.common))
 
 }
+
+// git status
